@@ -34,3 +34,6 @@ In MSCS532_Assignment3 folder, run command below
 python3 -m unittest test.randomized_quicksort_test
 ```
 
+### Summary of Finding
+Randomized Quicksort demonstrates how adding a randomized pivot choice converts a worst‑case O(n2) scenario into an expected O(nlogn), with minimal overhead. Hash tables with chaining illustrate another dimension of algorithmic efficiency: constant‑time average operations at the expense of occasional resizes. Together, these paradigms highlight the trade‑offs between expected versus worst‑case performance and between time complexity and memory overhead.
+
